@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { APP_ROUTES } from './app.routes';
-//Rutas
+// Rutas
 
 
 import { AppComponent } from './app.component';
